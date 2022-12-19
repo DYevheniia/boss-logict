@@ -123,6 +123,7 @@ header {
 /* Logotype */
 .logo img{
     max-width: 166rem;
+    width: 100%;
 }
 
 
