@@ -3,8 +3,8 @@
 	<defs>
 		<filter x="-50%" y="-50%" width="200%" height="200%" id="f1" ><feDropShadow dx="-10.392304845413264" dy="5.999999999999999" stdDeviation="9.583333333333334" flood-color="#066b96" flood-opacity=".2"/></filter>
 		<linearGradient id="g1" x1="2069.8" y1="-3514.4" x2="170.2" y2="-3680.6" gradientUnits="userSpaceOnUse">
-			<stop offset="0" stop-color="#0099ff"/>
-			<stop offset="1" stop-color="#00cbff"/>
+			<stop offset="0" stop-color="#e67a53"/>
+			<stop offset="0.8" stop-color="#e8d06e"/>
 		</linearGradient>
 	</defs>
 	<style>
